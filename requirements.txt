@@ -1,0 +1,7 @@
+# Install with: pip install -r requirements.txt
+gradio
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+ollama
